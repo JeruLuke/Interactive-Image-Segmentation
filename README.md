@@ -8,8 +8,17 @@ However, machines still don't perceive images the way a human eye does. Segmenta
 
 With this being said a human-aided/interactive way is needed to segment images properly. This repo uses an open source computer library named OpenCV for the above mentioned purpose.
 
+## Software and Installation
+
+I recommend installing the latest version of OpenCV or atleast 3.0.0 or above. 
+
 ## About this repo
 
 You can find `interactive_segmentation.py` file in the `codes` folder. Running this file will open two windows. One window containing the image you want to manually segment. Another wondow contains the segmented portions of the image. 
 
-If you want to clear what you have done, hit the spacebar. Hit lowercase 's' if you want to save the segmented image. Saved images are stored in the `results` folder. Press the 'Esc' key if you want to quit the program without saving anything.
+- If you want to clear what you have done, hit the spacebar. 
+- Hit lowercase 's' if you want to save the segmented image and quit. Saved images are stored in the `results` folder. 
+- Press the 'Esc' key if you want to quit the program without saving anything.
+
+
+
