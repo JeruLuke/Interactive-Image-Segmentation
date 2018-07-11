@@ -1,6 +1,6 @@
 # Interactive-Image-Segmentation
 
-![alt text] (https://github.com/JeruLuke/Interactive-Image-Segmentation/blob/master/ezgif.com-video-to-gif_34.gif)
+![alt text](https://github.com/JeruLuke/Interactive-Image-Segmentation/blob/master/ezgif.com-video-to-gif_34.gif)
 
 When was the last time you needed to segment an image?
 
