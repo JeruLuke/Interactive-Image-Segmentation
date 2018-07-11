@@ -1,5 +1,7 @@
 # Interactive-Image-Segmentation
 
+![alt text] (https://github.com/JeruLuke/Interactive-Image-Segmentation/blob/master/ezgif.com-video-to-gif_34.gif)
+
 When was the last time you needed to segment an image?
 
 There are numerous image segmentation algorithms available today. This field in particular has seen numerous contributions over the years. Currently with the onset of deep learning in Computer Vision, neural networks are doing a far better job than nearly every traditional approach built to this day.
