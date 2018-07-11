@@ -15,21 +15,15 @@ With this being said a human-aided/interactive way is needed to segment images p
 I recommend installing the latest version of OpenCV or atleast 3.0.0 or above. 
 
 ## Project Structure 
-
-`Main Folder`
-
-`  --> interactive_segmentation.py`
-
-`  --> interactive_segmentation_arg.py`
-
-`  --> zebra.jpg`
-
-`  --> results`
-
-`       --> Masked_image.jpg`
-
-`       --> Mask.jpg` 
-
+```
+Main Folder
+  --> interactive_segmentation.py
+  --> interactive_segmentation_arg.py
+  --> zebra.jpg
+  --> results
+       --> Masked_image.jpg
+       --> Mask.jpg
+```
 ## How to run it?
 
 Open the terminal and navigate to the location of the repo. Execute the following:
