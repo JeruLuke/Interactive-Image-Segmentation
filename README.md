@@ -38,4 +38,6 @@ If you want to run this code on an editor execute the `interactive_segmentation.
 
 Two images are produced one is the mask and the other is the masked image. Both these images will be found in the `results` folder.
 
+## Result
 
+![alt text](https://github.com/JeruLuke/Interactive-Image-Segmentation/blob/master/home.JPG)
