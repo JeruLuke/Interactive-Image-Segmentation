@@ -17,11 +17,17 @@ I recommend installing the latest version of OpenCV or atleast 3.0.0 or above.
 ## Project Structure 
 
 `Main Folder`
+
 `  --> interactive_segmentation.py`
+
 `  --> interactive_segmentation_arg.py`
+
 `  --> zebra.jpg`
+
 `  --> results`
+
 `       --> Masked_image.jpg`
+
 `       --> Mask.jpg` 
 
 ## How to run it?
